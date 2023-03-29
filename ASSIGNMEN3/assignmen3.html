@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Bug Smasher</title>
+    <style>
+      canvas {
+        border: 1px solid black;
+        background-color: green;
+        margin: 20px auto;
+        display: block;
+      }
+      body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        background-color: #f1f1f1;
+      }
+      h1 {
+  font-size: 48px;
+}
+      button {
+  display: inline-block;
+  margin: 10px;
+  font-size: 18px;
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+ }
+
+ button:hover {
+  background-color: darkgreen;
+}
+ footer {
+  background-color: #333;
+  color: white;
+  padding: 10px;
+ }
+    </style>
+  </head>
+  <body>
+    <canvas id="gameCanvas" width="600" height="400"></canvas>
+    <div>
+      Score: <span id="score"></span>
+      <hr>
+    </div>
+    <div>
+      Frame rate: <span id="frameRate"></span> 
+      <hr>
+    </div>
+    <button id="resetScoreButton">Reset Score</button>
+    <button id="resetSpeedButton">Reset Speed</button> <br>
+    <script src="game10.js"></script>
+    <hr>
+    <footer>Copyright &copy;2023 Adinlewa Tawakalitu Eunice</footer>
+  </body>
+</html>
