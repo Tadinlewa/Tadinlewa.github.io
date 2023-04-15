@@ -1,0 +1,8 @@
+{
+    "id": 5,
+    "title": "Product 5",
+    "description": "What a beautiful view and side attraction. You can go visiting for just 50 box for you and your family.",
+    "price": 50.00,
+    "image": "Images/product 5.jpg",
+    "details": "product5-details.json"
+  }

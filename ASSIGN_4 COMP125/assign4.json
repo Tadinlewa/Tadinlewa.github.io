@@ -1,0 +1,71 @@
+[
+    {
+      "id": 1,
+      "title": "Product 1",
+      "description": "This is magical. You go under water for just 10 box.",
+      "price": 10.00,
+      "image": "Images/product 1.jpg",
+      "details": "product1-details.json"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "description": "This is a very beautiful image of a mountain. You can go hiking with friends for just 20 box.",
+      "price": 20.00,
+      "image": "Images/product 2.jpg",
+      "details": "product2-details.json"
+    },
+    {
+      "id": 3,
+      "title": "Product 3",
+      "description": "Description of product 3",
+      "price": 30.00,
+      "image": "Images/product 3.jpg",
+      "details": null
+    },
+    
+        {
+          "id": 4,
+          "title": "Product 4",
+          "description": "Description of product 4",
+          "price": 40.00,
+          "image": "Images/product 4.jpg",
+          "details": null
+        },
+        {
+          "id": 5,
+          "title": "Product 5",
+          "description": "What a beautiful view and side attraction. You can go visiting for just 50 box for you and your family.",
+          "price": 50.00,
+          "image": "Images/product 5.jpg",
+          "details": "product5-details.json"
+        },
+        {
+          "id": 6,
+          "title": "Product 6",
+          "description": "Description of product 6",
+          "price": 60.00,
+          "image": "Images/product 6.jpg",
+          "details": null
+        },
+        
+            {
+              "id": 7,
+              "title": "Product 7",
+              "description": "Description of product 7",
+              "price": 70.00,
+              "image": "Images/product 7.jpg",
+              "details": null
+            },
+            {
+              "id": 8,
+              "title": "Product 8",
+              "description": "Description of product 8",
+              "price": 80.00,
+              "image": "Images/product 8.jpg",
+              "details": null
+            }
+            
+          
+  ]
+ 

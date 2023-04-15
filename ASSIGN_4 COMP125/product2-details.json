@@ -1,0 +1,7 @@
+{"id": 2,
+      "title": "Product 1",
+      "description": "This is a very beautiful image of a mountain. You can go hiking with friends for just 20 box.",
+      "price": 20.00,
+      "image": "Images/product 2.jpg",
+      "details": "product1-details.json"
+}
